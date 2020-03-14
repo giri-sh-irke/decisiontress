@@ -1,4 +1,4 @@
-# decisiontress
+# Decision trees : Python
 Implementing decision tress in python
 
 # Information 
